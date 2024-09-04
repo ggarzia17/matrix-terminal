@@ -1,5 +1,5 @@
 # The name of the source files
-SOURCES = main.c line.c vec.c
+SOURCES = main.c line.c
 
 # The name of the executable
 EXE = matrix
